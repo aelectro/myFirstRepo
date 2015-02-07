@@ -1,1 +1,6 @@
 // js source
+
+(function(){
+	
+	
+})()
